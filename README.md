@@ -1,2 +1,2 @@
 # WordleGame
-Java Implementation of the world game using Gradle.
+Java Implementation of the wordle game using Gradle.
